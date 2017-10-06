@@ -1,0 +1,6 @@
+C:\Users\YONATAN\source\repos\Client\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\YONATAN\source\repos\Client\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\YONATAN\source\repos\Client\Utilities\bin\Debug\Utilities.dll
+C:\Users\YONATAN\source\repos\Client\Utilities\bin\Debug\Utilities.pdb
+C:\Users\YONATAN\source\repos\Client\Utilities\obj\Debug\Utilities.dll
+C:\Users\YONATAN\source\repos\Client\Utilities\obj\Debug\Utilities.pdb
