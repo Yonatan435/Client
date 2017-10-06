@@ -1,0 +1,9 @@
+C:\Users\YONATAN\source\repos\Client\Client\bin\Debug\Client.dll.config
+C:\Users\YONATAN\source\repos\Client\Client\bin\Debug\Client.dll
+C:\Users\YONATAN\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\YONATAN\source\repos\Client\Client\bin\Debug\Utilities.dll
+C:\Users\YONATAN\source\repos\Client\Client\bin\Debug\Utilities.pdb
+C:\Users\YONATAN\source\repos\Client\Client\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\YONATAN\source\repos\Client\Client\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\YONATAN\source\repos\Client\Client\obj\Debug\Client.dll
+C:\Users\YONATAN\source\repos\Client\Client\obj\Debug\Client.pdb
